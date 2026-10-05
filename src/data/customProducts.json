@@ -1,0 +1,1316 @@
+[
+  {
+    "id": "hpmc",
+    "name": {
+      "en": "Hydroxypropyl Methyl Cellulose (HPMC)",
+      "ar": "هيدروكسي بروبيل ميثيل السليلوز (HPMC)"
+    },
+    "category": "cellulose-polymers",
+    "casNumber": "9004-65-3",
+    "appearance": {
+      "en": "White to off-white fibrous or granular powder, cold-water soluble",
+      "ar": "بودرة بيضاء ناصعة، سريعة الذوبان في الماء البارد وتعمل كمغلظ قوام ومثبت ماء فائق"
+    },
+    "packaging": {
+      "en": "25 Kg multi-layer paper bags",
+      "ar": "أكياس ورقية متعددة الطبقات سعة 25 كجم"
+    },
+    "applications": {
+      "en": [
+        "Dry-mix mortars & tile adhesives",
+        "Wall putties & skim coats",
+        "Water-based architectural emulsion paints",
+        "Gypsum plasters & joint fillers",
+        "Detergents & personal care"
+      ],
+      "ar": [
+        "لواصق البلاط والمونة الجافة",
+        "معجون الحوائط والواجهات الإسمنتي",
+        "الدهانات المائية المعمارية",
+        "بياض وملاط الجبس ومعجون الفواصل",
+        "المنظفات ومستحضرات العناية"
+      ]
+    },
+    "imageUrl": "/images/uploads/uploaded_product_hpmc.jpg",
+    "featured": true
+  },
+  {
+    "id": "hec",
+    "name": {
+      "ar": "هيدروكسي إيثيل السليلوز (HEC)",
+      "en": "Hydroxyethyl Cellulose (HEC)"
+    },
+    "category": "cellulose-polymers",
+    "casNumber": "9004-62-0",
+    "appearance": {
+      "ar": "بودرة بيضاء إلى كريمية حرة التدفق، مغلظ قوام لا أيوني عالي النقاء",
+      "en": "White to light cream free-flowing powder, non-ionic thickener"
+    },
+    "packaging": {
+      "ar": "أكياس ورقية متعددة الطبقات سعة 25 كجم",
+      "en": "25 Kg multi-layer paper bags"
+    },
+    "applications": {
+      "ar": [
+        "دهانات المستحلبات واللاتكس المعماري",
+        "سوائل حفر وتكميل آبار النفط والغاز",
+        "المنظفات السائلة ومنعمات الأقمشة",
+        "طباعة وتجهيز المنسوجات",
+        "جل ومستحضرات التجميل والعناية الشخصية"
+      ],
+      "en": [
+        "Architectural latex & emulsion paints",
+        "Oil & gas drilling & completion fluids",
+        "Liquid detergents & fabric softeners",
+        "Textile sizing & printing pastes",
+        "Cosmetics & personal care gels"
+      ]
+    },
+    "imageUrl": "/images/uploads/uploaded_product_hec.jpg",
+    "featured": true
+  },
+  {
+    "id": "mhec",
+    "name": {
+      "ar": "ميثيل هيدروكسي إيثيل السليلوز (MHEC)",
+      "en": "Methyl Hydroxyethyl Cellulose (MHEC)"
+    },
+    "category": "cellulose-polymers",
+    "casNumber": "9032-42-2",
+    "appearance": {
+      "ar": "بودرة بيضاء ناصعة ذات احتباس ماء فائق واستقرار حراري ممتاز في الأجواء الحارة",
+      "en": "White to off-white powder, high thermal gelation and water retention"
+    },
+    "packaging": {
+      "ar": "أكياس ورقية متعددة الطبقات سعة 25 كجم",
+      "en": "25 Kg multi-layer paper bags"
+    },
+    "applications": {
+      "ar": [
+        "مونة العزل الحراري الخارجي للواجهات (EIFS)",
+        "غراء السيراميك والبورسلان عالي الأداء",
+        "ألواح الإسمنت المسحوبة سابقة التجهيز",
+        "لياسة الجبس الميكانيكية بالرش",
+        "مركبات التسوية الذاتية للأرضيات"
+      ],
+      "en": [
+        "External thermal insulation systems (EIFS/ETICS)",
+        "Premium tile adhesives & grouts",
+        "Extruded cement panels & sheets",
+        "Gypsum machine-applied plasters",
+        "Self-leveling floor compounds"
+      ]
+    },
+    "imageUrl": "/images/uploads/uploaded_product_mhec.jpg",
+    "featured": true
+  },
+  {
+    "id": "hemc",
+    "name": {
+      "ar": "هيدروكسي إيثيل ميثيل السليلوز (HEMC)",
+      "en": "Hydroxyethyl Methyl Cellulose (HEMC)"
+    },
+    "category": "cellulose-polymers",
+    "casNumber": "9032-42-2",
+    "appearance": {
+      "ar": "بودرة بيضاء دقيقة توفر مقاومة انزلاق عالية وتمديد زمن التشغيل المفتوح",
+      "en": "Fine white powder, excellent slip resistance and open time"
+    },
+    "packaging": {
+      "ar": "أكياس ورقية متعددة الطبقات سعة 25 كجم",
+      "en": "25 Kg multi-layer paper bags"
+    },
+    "applications": {
+      "ar": [
+        "لواصق البورسلان والقطع الكبيرة الثقيلة",
+        "مونة البناء واللياسة الخارجية والقصارة",
+        "معجون فواصل ألواح الجبس بورد",
+        "عوازل المياه الإسمنتية",
+        "الطلاءات الديكورية ذات الملمس الخشن"
+      ],
+      "en": [
+        "Large-format tile & porcelain adhesives",
+        "Masonry mortars & exterior renders",
+        "Plasterboard joint compounds",
+        "Waterproofing cementitious slurries",
+        "Water-based decorative textures"
+      ]
+    },
+    "imageUrl": "/images/uploads/uploaded_product_hemc.jpg",
+    "featured": false
+  },
+  {
+    "id": "bentonite",
+    "name": {
+      "ar": "بنتونايت / طين البنتونايت المنشط (Bentonite)",
+      "en": "Bentonite / Activated Organoclay"
+    },
+    "category": "fillers-minerals",
+    "casNumber": "1302-78-9",
+    "appearance": {
+      "ar": "بودرة معدنية رمادية فاتحة إلى كريمية ذات قدرة انتفاخ وتبادل أيوني عالية",
+      "en": "Light grey to cream fine mineral powder, superior swell index"
+    },
+    "packaging": {
+      "ar": "أكياس ورقية متعددة الطبقات سعة 25 كجم",
+      "en": "25 Kg multi-layer paper bags"
+    },
+    "applications": {
+      "ar": [
+        "ضبط القوام والريولوجيا في الدهانات الزيتية والألكيدية",
+        "طين وسوائل حفر الآبار البترولية والمائية (مواصفات API)",
+        "مسابك المعادن وتثبيت جدران الحفر والأنفاق",
+        "تبطين السدود وعزل البحيرات والتربة من التسرب",
+        "شحوم التزييت ومواد منع تسرب الإسفلت"
+      ],
+      "en": [
+        "Rheology modifier for solvent-borne paints & alkyds",
+        "Oil & water well drilling fluids (API grade)",
+        "Foundry sands & civil engineering cutoff walls",
+        "Waterproofing clay liners & geotechnical barriers",
+        "Lubricating greases & asphalt sealants"
+      ]
+    },
+    "imageUrl": "/images/uploads/uploaded_product_bentonite.jpg",
+    "featured": false
+  },
+  {
+    "id": "rdp",
+    "name": {
+      "en": "Redispersible Polymer Powder (RDP)",
+      "ar": "بودرة البوليمر القابلة لإعادة الانتشار (RDP)"
+    },
+    "category": "cellulose-polymers",
+    "casNumber": "24937-78-8",
+    "appearance": {
+      "en": "Free-flowing white powder, redispersible in water to form elastic film",
+      "ar": "بودرة بيضاء حرة التدفق، سريعة الانتشار في الماء لتكوين فيلم بوليمري مرن عالي الالتصاق"
+    },
+    "packaging": {
+      "en": "25 Kg multi-layer paper bags",
+      "ar": "أكياس ورقية متعددة الطبقات سعة 25 كجم"
+    },
+    "applications": {
+      "en": [
+        "Flexible tile adhesives (C2TES1 standards)",
+        "External thermal insulation systems (EIFS)",
+        "Self-leveling floor compounds & screeds",
+        "Repair mortars & concrete overlays",
+        "Flexible waterproofing slurries"
+      ],
+      "ar": [
+        "لواصق البلاط المرنة عالية الالتصاق (C2)",
+        "أنظمة العزل الحراري الخارجي للواجهات",
+        "أرضيات التسوية الذاتية والملاط الإسمنتي",
+        "مونة إصلاح ومعالجة وترميم الخرسانة",
+        "عوازل المياه الإسمنتية المرنة"
+      ]
+    },
+    "imageUrl": "/images/uploads/uploaded_product_rdp.jpg",
+    "featured": true
+  },
+  {
+    "id": "ester-alcohol",
+    "name": {
+      "ar": "إستر الكحول  (Ester Alcohol)",
+      "en": "Ester Alcohol"
+    },
+    "category": "solvents-coalescents",
+    "casNumber": "25265-77-4",
+    "appearance": {
+      "ar": "سائل زيتي شفاف عديم اللون ذو رائحة مميزة خفيفة، مدمج فيلم عالي الكفاءة",
+      "en": "Clear, colorless oily liquid with mild characteristic odor"
+    },
+    "packaging": {
+      "ar": "براميل حديدية 200 كجم / خزانات IBC سعة 1000 لتر",
+      "en": "200 Kg steel drums / 1000L IBC totes"
+    },
+    "applications": {
+      "ar": [
+        "مساعد اندماج أساسي للدهانات المائية واللاتكس",
+        "طلاءات الأخشاب والورنيش المائي",
+        "الدهانات الصناعية ومقاومة العوامل الجوية",
+        "أحبار الطباعة المائية",
+        "العوازل المطاطية الأكريليكية للأسطح والواجهات"
+      ],
+      "en": [
+        "Premier coalescent for architectural latex paints",
+        "Waterborne wood coatings & varnishes",
+        "Industrial maintenance coatings",
+        "Waterborne printing inks",
+        "Elastomeric roof & wall coatings"
+      ]
+    },
+    "imageUrl": "/images/uploads/uploaded_product_ester-alcohol.jpg",
+    "featured": true
+  },
+  {
+    "id": "iron-oxide",
+    "name": {
+      "en": "Iron Oxide Pigments (Red, Yellow, Black)",
+      "ar": "أكسيد الحديد (أحمر، أصفر، أسود) (Iron Oxide)"
+    },
+    "category": "pigments-colorants",
+    "casNumber": "1309-37-1 / 51274-00-1 / 1317-61-9",
+    "appearance": {
+      "en": "Micronized fine dry powder with supreme tinting strength & UV stability",
+      "ar": "بودرة ميكرونية جافة فائقة النعومة بقوة تلوين وثبات استثنائي ضد الشمس والحرارة"
+    },
+    "packaging": {
+      "en": "25 Kg multi-layer paper bags",
+      "ar": "أكياس ورقية متعددة الطبقات سعة 25 كجم"
+    },
+    "applications": {
+      "en": [
+        "Concrete coloring, interlocking pavers & roof tiles",
+        "Architectural paints, primers & wood stains",
+        "Plastics, PVC & masterbatch compounding",
+        "Ceramic glazes & colored tile grouts",
+        "Industrial anti-corrosive primers"
+      ],
+      "ar": [
+        "تلوين الخرسانة والإنترلوك وبلاط الأرصفة والقرميد",
+        "الدهانات المعمارية وبويات الأساس وصبغات الأخشاب",
+        "البلاستيك والـ PVC والماسترباتش",
+        "السيراميك وترويبات الفواصل الملونة",
+        "بويات الأساس الصناعية المانعة للصدأ"
+      ]
+    },
+    "imageUrl": "/images/uploads/uploaded_product_iron-oxide.jpg",
+    "featured": true
+  },
+  {
+    "id": "organic-pigments",
+    "name": {
+      "ar": "أصباغ عضوية (Organic Pigments)",
+      "en": "Organic Pigments"
+    },
+    "category": "pigments-colorants",
+    "casNumber": "Various (CI Pigment Class)",
+    "appearance": {
+      "ar": "مساحيق أصباغ جافة عالية النقاوة بمروحة ألوان كاملة ومقاومة عالية للعوامل الجوية",
+      "en": "High-purity dry pigment powders across full spectrum of colors"
+    },
+    "packaging": {
+      "ar": "أكياس ورقية متعددة الطبقات 25 كجم",
+      "en": "25 kg multi-layer paper bags"
+    },
+    "applications": {
+      "ar": [
+        "الدهانات الديكورية ودهانات السيارات والطلاءات الصناعية",
+        "أحبار الطباعة والتغليف والتعبئة (فلكسو وروتو)",
+        "تلوين حبيبات البلاستيك والبوليمرات",
+        "طلاءات البودرة الكهروستاتيكية",
+        "طباعة المنسوجات والأقمشة والجلود الصناعية"
+      ],
+      "en": [
+        "Decorative",
+        "automotive & industrial coatings",
+        "Packaging printing inks (flexo & gravure)",
+        "Plastics masterbatches & polymer coloration",
+        "Electrostatic powder coatings",
+        "Textile printing & synthetic leather"
+      ]
+    },
+    "imageUrl": "/images/uploads/uploaded_product_organic-pigments.jpg",
+    "featured": false
+  },
+  {
+    "id": "inorganic-pigment",
+    "name": {
+      "en": "In-Organic Pigment",
+      "ar": "أصباغ غير عضوية (In-Organic Pigment)"
+    },
+    "category": "pigments-colorants",
+    "casNumber": "Various (Inorganic CI Pigments)",
+    "appearance": {
+      "en": "High-purity mineral-based inorganic pigment powders offering superior lightfastness, thermal stability, weatherability, and exceptional opacity",
+      "ar": "مساحيق أصباغ معدنية غير عضوية عالية النقاوة تمتاز بثباتية لونية فائقة ومقاومة ممتازة للحرارة والأشعة فوق البنفسجية والعوامل الجوية"
+    },
+    "packaging": {
+      "en": "25 Kg multi-layer craft bags",
+      "ar": "أكياس ورقية متعددة الطبقات 25 كجم"
+    },
+    "applications": {
+      "en": [
+        "Exterior & interior weather-resistant architectural coatings",
+        "Colored concrete, cement mortars, paving tiles & precast",
+        "Plastics masterbatches & engineering polymers",
+        "Thermosetting powder coatings & industrial coil finishes",
+        "Ceramic glazes, roofing tiles & exterior building materials"
+      ],
+      "ar": [
+        "الدهانات والطلاءات المعمارية والصناعية المقاومة للعوامل الجوية",
+        "تلوين الإسمنت، الخرسانة المعمارية، البلاط والإنترلوك",
+        "صناعة البلاستيك، الماسترباتش، والبوليمرات الهندسية",
+        "طلاءات البودرة الكهروستاتيكية ودهانات الأفران الصناعية",
+        "صناعة السيراميك، القرميد ومواد البناء والتشييد"
+      ]
+    },
+    "imageUrl": "/images/uploads/uploaded_product_inorganic-pigment.jpg",
+    "featured": false
+  },
+  {
+    "id": "titanium",
+    "name": {
+      "ar": "ثاني أكسيد التيتانيوم (تيتانيوم روتيل) (Titanium)",
+      "en": "Titanium Dioxide (Titanium Rutile / Anatase)"
+    },
+    "category": "pigments-colorants",
+    "casNumber": "13463-67-7",
+    "appearance": {
+      "ar": "بودرة بيضاء ناصعة فائقة البياض وذات قدرة تغطية وتشتيت ضوئي استثنائية",
+      "en": "Brilliant white micronized powder, supreme opacity and light scattering"
+    },
+    "packaging": {
+      "ar": "أكياس ورقية متعددة الطبقات 25 كجم",
+      "en": "25 kg multi-wall paper bags"
+    },
+    "applications": {
+      "ar": [
+        "الدهانات المائية والمعمارية الفاخرة",
+        "الطلاءات الصناعية والبحرية ودهانات السيارات",
+        "البلاستيك والماسترباتش ومقاطع نوافذ الـ PVC",
+        "صناعة الورق الفاخر عالي العتامة وأحبار الطباعة",
+        "طلاء البودرة الكهروستاتيكي وصناعة المطاط"
+      ],
+      "en": [
+        "High-grade architectural & decorative paints",
+        "Industrial",
+        "marine & automotive coatings",
+        "Plastics",
+        "masterbatch & PVC window profiles",
+        "High-opacity paper & printing inks",
+        "Powder coatings & rubber manufacturing"
+      ]
+    },
+    "imageUrl": "/images/uploads/uploaded_product_titanium.jpg",
+    "featured": true
+  },
+  {
+    "id": "calcined-kaolin",
+    "name": {
+      "en": "Calcined Kaolin Clay",
+      "ar": "كاولين مكلسن (Calcined Kaolin)"
+    },
+    "category": "fillers-minerals",
+    "casNumber": "92704-41-1",
+    "appearance": {
+      "en": "Fine white dehydroxylated powder with high brightness & low oil absorption",
+      "ar": "بودرة بيضاء نقية معالجة حرارياً، تعزز التغطية وتقلل استهلاك التيتانيوم"
+    },
+    "packaging": {
+      "en": "25 Kg multi-layer paper bags",
+      "ar": "أكياس ورقية متعددة الطبقات سعة 25 كجم"
+    },
+    "applications": {
+      "en": [
+        "Titanium dioxide extender in emulsion paints",
+        "Coated paper & packaging board",
+        "Rubber compounding & cable sheathings",
+        "Wire insulation & engineering plastics",
+        "Ceramic glazes & specialty refractories"
+      ],
+      "ar": [
+        "بديل وموسع لثاني أكسيد التيتانيوم في الدهانات لتقليل التكلفة",
+        "طلاء وحشو الورق والكرتون عالي الجودة",
+        "خلطات المطاط وأغلفة الكابلات",
+        "عوازل الأسلاك الكهربائية والبلاستيك الهندسي",
+        "جليز السيراميك والمواد الحرارية المقاومة"
+      ]
+    },
+    "imageUrl": "/images/uploads/uploaded_product_calcined-kaolin.jpg",
+    "featured": false
+  },
+  {
+    "id": "anti-foams",
+    "name": {
+      "en": "Anti-foam / Defoamer (Silicone & Mineral Oil)",
+      "ar": "مضادات الرغوة ومثبطات الفقاعات (Anti-foams)"
+    },
+    "category": "additives-modifiers",
+    "casNumber": "63148-62-9 / Mixture",
+    "appearance": {
+      "en": "Milky white emulsion or clear fluid, rapid foam knockdown & deaeration",
+      "ar": "مستحلب حليبي أو سائل شفاف، سريع القضاء على الفقاعات والرغوة السطحية والمحبوسة"
+    },
+    "packaging": {
+      "en": "25 Kg carboys / 200 Kg plastic drums",
+      "ar": "عبوات 25 كجم / براميل بلاستيكية 200 كجم"
+    },
+    "applications": {
+      "en": [
+        "Waterborne paints & architectural coatings",
+        "Adhesives, sealants & PVA glues",
+        "Industrial wastewater treatment plants",
+        "Chemical processing & distillation units",
+        "Detergent & textile manufacturing"
+      ],
+      "ar": [
+        "الدهانات المائية المعمارية والصناعية",
+        "لواصق الغراء ومواد العزل وسيلكون الفواصل",
+        "محطات معالجة مياه الصرف الصناعي",
+        "العمليات والتفاعلات الكيميائية ووحدات التقطير",
+        "صناعة المنظفات وصباغة المنسوجات"
+      ]
+    },
+    "imageUrl": "/images/uploads/uploaded_product_anti-foams.jpg",
+    "featured": false
+  },
+  {
+    "id": "dispersing-agent",
+    "name": {
+      "ar": "عامل تشتيت الأصباغ والمواد المالئة (Dispersing Agent)",
+      "en": "Dispersing Agent (Polycarboxylate)"
+    },
+    "category": "additives-modifiers",
+    "casNumber": "9003-04-7 / Mixture",
+    "appearance": {
+      "ar": "سائل كهرماني شفاف، يوفر استقراراً فائقاً للأصباغ ضد التكتل والترسيب",
+      "en": "Clear to pale amber liquid, electro-steric stabilization"
+    },
+    "packaging": {
+      "ar": "عبوات 25 كجم / براميل بلاستيكية 200 كجم",
+      "en": "25 kg bags / 200 kg plastic drums"
+    },
+    "applications": {
+      "ar": [
+        "طحن وتشتيت وتثبيت الأصباغ والمعادن",
+        "دهانات المستحلبات ذات التحميل العالي للبودرة (High PVC)",
+        "روبة السيراميك والمواد الخزفية",
+        "معاجين وملونات الدهان المركزة المائية",
+        "مساعدات طحن كربونات الكالسيوم والمعادن"
+      ],
+      "en": [
+        "Pigment grinding & slurry stabilization",
+        "High-PVC emulsion paints",
+        "Ceramic slurries & slip casting",
+        "Waterborne pigment concentrates",
+        "Mineral & calcium carbonate grinding aid"
+      ]
+    },
+    "imageUrl": "/images/uploads/uploaded_product_dispersing-agent.jpg",
+    "featured": false
+  },
+  {
+    "id": "shmp",
+    "name": {
+      "en": "Sodium Hexametaphosphate (SHMP)",
+      "ar": "سداسي ميتافوسفات الصوديوم (SHMP)"
+    },
+    "category": "specialty-chemicals",
+    "casNumber": "10124-56-8",
+    "appearance": {
+      "en": "White crystalline powder or granular plates, high chelating strength",
+      "ar": "بودرة أو بلورات بيضاء ماصة للرطوبة، عامل عزل وتليين مائي ممتاز وتشتيت عالي"
+    },
+    "packaging": {
+      "en": "25 Kg woven bags with inner PE liner",
+      "ar": "أكياس منسوجة سعة 25 كجم مبطنة بالبولي إيثيلين"
+    },
+    "applications": {
+      "en": [
+        "Industrial water treatment & boiler scale inhibitor",
+        "Dispersant for ceramic & clay slurries",
+        "Detergent builder & water softening",
+        "Leather tanning & paper manufacturing",
+        "Metal surface treatment & cleaning"
+      ],
+      "ar": [
+        "معالجة مياه المراجل والغلايات ومنع التكلسات",
+        "عامل تشتي�� في روبة الطين والسيراميك والخزف",
+        "تليين عسر المياه وصناعة المنظفات الصناعية",
+        "دباغة الجلود وصناعة الورق",
+        "معالجة وتنظيف الأسطح المعدنية"
+      ]
+    },
+    "imageUrl": "/images/uploads/uploaded_product_shmp.jpg",
+    "featured": false
+  },
+  {
+    "id": "smbs",
+    "name": {
+      "en": "Sodium Metabisulfite (SMBS)",
+      "ar": "ميتابيسلفيت الصوديوم (SMBS)"
+    },
+    "category": "specialty-chemicals",
+    "casNumber": "7681-57-4",
+    "appearance": {
+      "en": "White crystalline powder with sulfur dioxide pungent odor",
+      "ar": "بودرة بلورية بيضاء ذات رائحة كبريتية مميزة، عامل اختزال ومضاد أكسدة قوي"
+    },
+    "packaging": {
+      "en": "25 Kg bags",
+      "ar": "أكياس سعة 25 كجم"
+    },
+    "applications": {
+      "en": [
+        "Water treatment & dechlorination agent",
+        "Reverse osmosis (RO) membrane protection",
+        "Mining flotation & gold cyanidation neutralization",
+        "Textile bleaching & effluent wastewater treatment",
+        "Industrial chemical preservative & oxygen scavenger"
+      ],
+      "ar": [
+        "معالجة المياه وإزالة الكلور الحر الفائض والتعقيم",
+        "حماية أغشية التناضح العكسي (RO) في محطات التحلية",
+        "تعدين واستخلاص الذهب ومعادن التعدين",
+        "قصر ألوان الأقمشة ومعالجة مياه الصرف الصناعي",
+        "مضاد أكسدة وماص للأكسجين في السوائل الصناعية"
+      ]
+    },
+    "imageUrl": "/images/uploads/uploaded_product_smbs.jpg",
+    "featured": false
+  },
+  {
+    "id": "anti-skin",
+    "name": {
+      "en": "Anti-skinning Agent (MEKO)",
+      "ar": "مانع القشرة للدهانات الزيتية (Anti-skin / MEKO)"
+    },
+    "category": "additives-modifiers",
+    "casNumber": "96-29-7",
+    "appearance": {
+      "en": "Clear colorless to pale yellow liquid, volatile antioxidant",
+      "ar": "سائل شفاف نقي عديم اللون إلى أصفر شاحب، يمنع تكون القشرة السطحية في العبوات"
+    },
+    "packaging": {
+      "en": "190 Kg steel drums / 25 Kg cans",
+      "ar": "براميل حديدية 190 كجم / عبوات 25 كجم"
+    },
+    "applications": {
+      "en": [
+        "Air-drying solvent alkyd paints & enamels",
+        "Oil-based wood varnishes & stains",
+        "Offset & flexographic printing inks",
+        "RTV silicone sealants & moisture-curing polymers",
+        "Rust-preventative industrial primers"
+      ],
+      "ar": [
+        "الدهانات الألكيدية الزيتية واللاكيهات سريعة الجفاف",
+        "ورنيش ودهانات الأخشاب الزيتية",
+        "أحبار طباعة الأوفست",
+        "سيليكون وموانع التسرب المتصلبة بالرطوبة",
+        "بويات الأساس ومقاومة الصدأ"
+      ]
+    },
+    "imageUrl": "/images/uploads/uploaded_product_anti-skin.jpg",
+    "featured": false
+  },
+  {
+    "id": "zinc-dust",
+    "name": {
+      "ar": "غبار الزنك / مسحوق الزنك المعدني (Zinc Dust)",
+      "en": "Zinc Dust / Metallic Zinc Powder"
+    },
+    "category": "specialty-chemicals",
+    "casNumber": "7440-66-6",
+    "appearance": {
+      "ar": "مسحوق معدني رمادي ناعم منتظم الحبيبات فائق النقاوة للحماية الجلفانية",
+      "en": "Ultra-fine grey metallic powder with spherical particle morphology"
+    },
+    "packaging": {
+      "ar": "أكياس ورقية متعددة الطبقات سعة 25 كجم",
+      "en": "25 kg multi-wall paper bags"
+    },
+    "applications": {
+      "ar": [
+        "بويات الأساس الغنية بالزنك المقاومة للتآكل والصدأ الجلفاني",
+        "الدهانات البحرية الثقيلة والمنصات البترولية والجسور",
+        "ترسيب واستخلاص الذهب والمعادن الثمينة في التعدين",
+        "عامل اختزال قوي في التفاعلات الكيميائية",
+        "صناعة تيل الفرامل والمواد الاحتكاكية"
+      ],
+      "en": [
+        "Zinc-rich cathodic anti-corrosive primers",
+        "Heavy marine",
+        "offshore & bridge coatings",
+        "Hydrometallurgy gold precipitation (Merrill-Crowe process)",
+        "Chemical reducing agent in chemical synthesis",
+        "Friction materials",
+        "brake pads & pyrotechnics"
+      ]
+    },
+    "imageUrl": "/images/uploads/uploaded_product_zinc-dust.jpg",
+    "featured": false
+  },
+  {
+    "id": "zinc-phosphate",
+    "name": {
+      "en": "Zinc Phosphate (Anti-corrosive Pigment)",
+      "ar": "فوسفات الزنك (Zinc Phosphate)"
+    },
+    "category": "specialty-chemicals",
+    "casNumber": "7779-90-0",
+    "appearance": {
+      "en": "White non-toxic micronized powder, eco-friendly rust inhibitor",
+      "ar": "بودرة بيضاء دقيقة غير سامة، صبغة أساسية مانعة للصدأ صديقة للبيئة"
+    },
+    "packaging": {
+      "en": "25 Kg multi-layer paper bags",
+      "ar": "أكياس ورقية متعددة الطبقات سعة 25 كجم"
+    },
+    "applications": {
+      "en": [
+        "Anti-corrosive primer coats for steel structures",
+        "Epoxy & polyurethane industrial finishes",
+        "Coil coatings & automotive electro-deposition primers",
+        "Waterborne rust-inhibitive systems",
+        "Dental cements & phosphating processes"
+      ],
+      "ar": [
+        "بويات الأساس المانعة للصدأ للهياكل والمباني الحديدية",
+        "الطلاءات الصناعية الإيبوكسية والبولي يوريثان",
+        "طلاء لفائف الصاج ودهانات غمس السيارات",
+        "الدهانات المائية المقاومة للتآكل والصدأ",
+        "الإسمنتات الطبية السنية وعمليات الفسفتة"
+      ]
+    },
+    "imageUrl": "/images/uploads/uploaded_product_zinc-phosphate.jpg",
+    "featured": true
+  },
+  {
+    "id": "fumed-silica",
+    "name": {
+      "ar": "فيومد سيليكا / سيليكا مدخنة (Fumed Silica)",
+      "en": "Fumed Silica (Hydrophilic)"
+    },
+    "category": "fillers-minerals",
+    "casNumber": "112945-52-5",
+    "appearance": {
+      "ar": "بودرة بيضاء هشة فائقة الخفة بمساحة سطحية هائلة ومعدل ثيكسوتروبي فائق",
+      "en": "Fluffy, ultra-light white powder with immense specific surface area"
+    },
+    "packaging": {
+      "ar": "أكياس ورقية متعددة الطبقات سعة 25 كجم",
+      "en": "25 kg multi-wall paper bags"
+    },
+    "applications": {
+      "ar": [
+        "مانع تسييل وضابط لزوجة ثيكسوتروبية في الراتنجات والدهانات",
+        "تقوية السيليكون المطاطي والمواد اللاصقة وسيلكون الفواصل",
+        "جيلكوت البوليستر غير المشبع والألياف الزجاجية (الفايبر جلاس)",
+        "مانع ترسيب للأصباغ والمعادن في الدهانات",
+        "مانع تكتل ومساعد تدفق للمساحيق الجافة"
+      ],
+      "en": [
+        "Thixotropic thickener & anti-sag in paints & resins",
+        "Reinforcing filler in silicone rubber & sealants",
+        "Unsaturated polyester gelcoats & composites",
+        "Anti-settling agent for pigments in coatings",
+        "Free-flow & anti-caking aid in dry powders"
+      ]
+    },
+    "imageUrl": "/images/uploads/uploaded_product_fumed-silica.jpg",
+    "featured": true
+  },
+  {
+    "id": "zinc-stearate",
+    "name": {
+      "ar": "ستيارات الزنك (Zinc Stearate)",
+      "en": "Zinc Stearate"
+    },
+    "category": "additives-modifiers",
+    "casNumber": "557-05-1",
+    "appearance": {
+      "ar": "بودرة بيضاء فائقة النعومة كارهة للماء ذات ملمس صابوني حريري ناعم",
+      "en": "Ultra-fine white hydrophobic powder, smooth silky touch"
+    },
+    "packaging": {
+      "ar": "أكياس ورقية متعددة الطبقات سعة 25 كجم",
+      "en": "25 kg multi-layer paper bags"
+    },
+    "applications": {
+      "ar": [
+        "سيلر ومساعد سنفرة وصنفرة في دهانات ورش الأخشاب",
+        "مزلق داخلي ومحرر قوالب في تصنيع البلاستيك والبوليمرات",
+        "منشط ومساعد خلط في صناعة المطاط والفلكنة",
+        "مستحضرات التجميل والأقراص الدوائية",
+        "تشتيت وتزليق حبيبات الماسترباتش الملون"
+      ],
+      "en": [
+        "Sanding sealer agent in wood coatings",
+        "Internal lubricant & mold release agent in plastics",
+        "Rubber vulcanization activator & processing aid",
+        "Cosmetics",
+        "powders & pharmaceutical tableting",
+        "Masterbatch dispersing lubricant"
+      ]
+    },
+    "imageUrl": "/images/uploads/uploaded_product_zinc-stearate.jpg",
+    "featured": false
+  },
+  {
+    "id": "carbon-black",
+    "name": {
+      "ar": "أسود الكربون (Carbon Black)",
+      "en": "Carbon Black (High Jetness)"
+    },
+    "category": "pigments-colorants",
+    "casNumber": "1333-86-4",
+    "appearance": {
+      "ar": "بودرة أو حبيبات سوداء شديدة السواد ذات ثبات لوني ومقاومة شمسية فائقة",
+      "en": "Deep black fine powder or beads with extreme jetness and UV screening"
+    },
+    "packaging": {
+      "ar": "أكياس ورقية متعددة الطبقات سعة 25 كجم",
+      "en": "20 Kg / 25 Kg bags"
+    },
+    "applications": {
+      "ar": [
+        "دهانات السيارات والطلاءات الصناعية السطحية الفاخرة",
+        "ماسترباتش أسود وأنابيب البولي إيثيلين HDPE",
+        "أحبار الطباعة والأحبار السائلة والبودرة",
+        "صناعة الإطارات وتقوية المنتجات المطاطية",
+        "الطلاءات الموصلة كهربائياً وتشتيت الشحنات"
+      ],
+      "en": [
+        "Automotive finishes",
+        "industrial paints & topcoats",
+        "Black masterbatch",
+        "plastics & HDPE pipes",
+        "Packaging printing inks",
+        "toners & coatings",
+        "Tires & technical rubber goods reinforcement",
+        "Conductive coatings & electrostatic dissipation"
+      ]
+    },
+    "imageUrl": "/images/uploads/uploaded_product_carbon-black.jpg",
+    "featured": true
+  },
+  {
+    "id": "dblo",
+    "name": {
+      "ar": "زيت بذرة الكتان المغلي المزدوج (DBLO)",
+      "en": "Double Boiled Linseed Oil (DBLO)"
+    },
+    "category": "additives-modifiers",
+    "casNumber": "68553-15-1",
+    "appearance": {
+      "ar": "زيت لزج شفاف بلون كهرماني ذهبي، سريع الجفاف عند التعرض للهواء",
+      "en": "Viscous clear amber golden oil, fast oxidative air drying"
+    },
+    "packaging": {
+      "ar": "براميل 200 لتر / عبوات 20 لتر",
+      "en": "200L drums / 20L pails"
+    },
+    "applications": {
+      "ar": [
+        "حماية وتغذية الأخشاب الطبيعية والديكورات والأسطح الخشبية",
+        "وسط إذابة وتلميع للألوان الزيتية والألكيدات",
+        "تصنيع معجون زجاج النوافذ (Putty)",
+        "معالجة وعزل الأسطح الخرسانية والطوب",
+        "حماية الحديد والمعدات المعدنية من الصدأ"
+      ],
+      "en": [
+        "Traditional wood finishing",
+        "timber protection & deck sealant",
+        "Medium for artist oil colors & alkyd paints",
+        "Window glazing putty formulation",
+        "Concrete curing & brick waterproofing",
+        "Rust protection & conditioning of iron tools"
+      ]
+    },
+    "imageUrl": "/images/uploads/uploaded_product_dblo.jpg",
+    "featured": false
+  },
+  {
+    "id": "barium-sulfate",
+    "name": {
+      "ar": "كبريتات الباريوم / باريوم سلفات (Barium Sulfate)",
+      "en": "Barium Sulfate / Natural Barytes (Blanc Fixe)"
+    },
+    "category": "fillers-minerals",
+    "casNumber": "7727-43-7",
+    "appearance": {
+      "ar": "بودرة بيضاء ثقيلة عالية الكثافة خاملة كيميائياً ومقاومة للأحماض والقلويات",
+      "en": "Heavy inert brilliant white powder, high specific gravity & chemical inertness"
+    },
+    "packaging": {
+      "ar": "أكياس ورقية متعددة الطبقات سعة 25 كجم",
+      "en": "25 kg multi-wall paper bags"
+    },
+    "applications": {
+      "ar": [
+        "بويات الأساس الصناعية عالية الكثافة ودهانات السيارات",
+        "طلاء البودرة الكهروستاتيكي لتعزيز اللمعان والصلابة ومقاومة الخدش",
+        "سوائل حفر آبار النفط والغاز كعامل تثقيل لرفع الكثافة",
+        "بطانات وتيل الفرامل ومواد الاحتكاك",
+        "اللدائن ومواد العزل الصوتي للأرضيات والجدران"
+      ],
+      "en": [
+        "High-density industrial primers & automotive coatings",
+        "Powder coatings for brilliant surface gloss",
+        "Oil & gas drilling muds (weighting agent)",
+        "Brake linings & automotive friction materials",
+        "Plastics",
+        "PVC & acoustic damping sound barriers"
+      ]
+    },
+    "imageUrl": "/images/uploads/uploaded_product_barium-sulfate.jpg",
+    "featured": false
+  },
+  {
+    "id": "styrene-acrylic",
+    "name": {
+      "en": "Styrene Acrylic Polymer Emulsion",
+      "ar": "مستحلب ستيرين أكريليك (Styrene Acrylic)"
+    },
+    "category": "polymers-emulsions",
+    "casNumber": "25085-34-1",
+    "appearance": {
+      "en": "Milky white liquid emulsion forming tough water- & alkali-resistant film",
+      "ar": "مستحلب مائي حليبي يشكل فيلماً شفافاً قوياً عالي المقاومة للماء والقلويات والرطوبة"
+    },
+    "packaging": {
+      "en": "200 Kg plastic drums / 1000L IBC totes",
+      "ar": "براميل بلاستيكية 200 كجم / حاويات IBC سعة 1000 لتر"
+    },
+    "applications": {
+      "en": [
+        "Exterior architectural paints & texture profile coatings",
+        "Roof waterproofing membranes & elastomeric barrier coatings",
+        "Tile adhesives & cementitious primers",
+        "Concrete sealers & dust-proofing overlays",
+        "Decorative exterior plasters (Graffiato)"
+      ],
+      "ar": [
+        "الدهانات المعمارية الخارجية والبروفايل والجرافيتو",
+        "عوازل الأسطح المائية والأغشية المطاطية المرنة",
+        "لواصق السيراميك وبرايمر الأسطح الإسمنتية",
+        "معالجات وعوازل الخرسانة وحمايتها من الغبار والرطوبة",
+        "اللياسة والطلاءات الإسمنتية الديكورية"
+      ]
+    },
+    "imageUrl": "/images/uploads/uploaded_product_styrene-acrylic.jpg",
+    "featured": true
+  },
+  {
+    "id": "copolymer-emulsion",
+    "name": {
+      "en": "Copolymer Emulsion",
+      "ar": "مستحلب كوبوليمر (Copolymer Emulsion)"
+    },
+    "category": "polymers-emulsions",
+    "casNumber": "25067-01-0 / 24937-78-8",
+    "appearance": {
+      "ar": "مستحلب مائي أبيض حليبي يوفر مرونة فائقة وقوة ربط عالية للأصباغ ومقاومة فرك ممتازة",
+      "en": "Milky white aqueous dispersion with excellent flexibility and scrub resistance"
+    },
+    "packaging": {
+      "ar": "براميل 200 كجم / حاويات IBC سعة 1000 لتر",
+      "en": "200 Kg drums / 1000L IBC totes"
+    },
+    "applications": {
+      "ar": [
+        "الدهانات المائية الداخلية القابلة للغسيل ومقاومة الفرك",
+        "لواصق الورق والتعبئة والتغليف والكرتون",
+        "ربط ومعالجة الألياف والمنسوجات غير المنسوجة",
+        "غراء الأخشاب عالي الأداء",
+        "طلاءات العزل الإسمنتي المرنة"
+      ],
+      "en": [
+        "Interior washable emulsion paints",
+        "Packaging adhesives & carton box sealing",
+        "Textile non-woven binders & coatings",
+        "High-performance woodworking glues",
+        "Flexible cementitious waterproof coatings"
+      ]
+    },
+    "imageUrl": "/images/uploads/uploaded_product_copolymer-emulsion.jpg",
+    "featured": false
+  },
+  {
+    "id": "homo-polymer",
+    "name": {
+      "en": "Polyvinyl Acetate (PVA) Homo-Polymer",
+      "ar": "هوموبوليمر بولي فينيل أسيتات (Homo-Polymer PVA)"
+    },
+    "category": "polymers-emulsions",
+    "casNumber": "9003-20-7",
+    "appearance": {
+      "en": "Viscous white aqueous dispersion forming clear, rigid adhesive bond",
+      "ar": "سائل مائي أبيض عالي اللزوجة يعطي رابطة صلبة شفافة قوية الالتصاق والتماسك"
+    },
+    "packaging": {
+      "en": "200 Kg drums / 1000L IBC totes",
+      "ar": "براميل 200 كجم / حاويات IBC سعة 1000 لتر"
+    },
+    "applications": {
+      "en": [
+        "Woodworking white glue (Carpenter's PVA glue)",
+        "Interior wall sealers & economy paint binders",
+        "Paper lamination, envelopes & bookbinding",
+        "Textile stiffening & fabric finishing",
+        "Plaster & drywall joint compound additive"
+      ],
+      "ar": [
+        "غراء الأخشاب الأبيض الممتاز (غراء نجارين)",
+        "دهانات وبرايمرات الحوائط الاقتصادية وسيلر الحوائط",
+        "تجليد وتصفيح الورق والكرتون والكتب والأظرف",
+        "تقسية وتجهيز أقمشة المنسوجات",
+        "إضافات معجون الفواصل وألواح الجبس"
+      ]
+    },
+    "imageUrl": "/images/uploads/uploaded_product_homo-polymer.jpg",
+    "featured": false
+  },
+  {
+    "id": "ipa",
+    "name": {
+      "en": "Isopropyl Alcohol (IPA) 99.8%",
+      "ar": "كحول آيزوبروبيل (IPA) نقاوة 99.8%"
+    },
+    "category": "solvents-coalescents",
+    "casNumber": "67-63-0",
+    "appearance": {
+      "en": "Clear, colorless volatile liquid with characteristic clean spirituous odor",
+      "ar": "سائل شفاف نقي عديم اللون سريع التطاير ذو رائحة كحولية مميزة وقوة تنظيف فائقة"
+    },
+    "packaging": {
+      "en": "160 Kg steel drums / 1000L IBC totes",
+      "ar": "براميل حديدية 160 كجم / حاويات IBC سعة 1000 لتر"
+    },
+    "applications": {
+      "en": [
+        "Industrial solvent, degreaser & surface preparation",
+        "Printing inks & gravure thinning solvent",
+        "Electronics circuit boards & optics cleaning",
+        "Medical sanitizers & disinfectant gels",
+        "Chemical extraction & pharmaceutical synthesis"
+      ],
+      "ar": [
+        "مذيب صناعي ومزيل شحوم وزيوت وتجهيز الأسطح",
+        "أحبار الطباعة وتخفيف ألوان الروتوغرافور",
+        "تنظيف اللوحات الإلكترونية الدقيقة والعدسات البصرية",
+        "تصنيع المعقمات والمطهرات الطبية والصناعية",
+        "عمليات الاستخلاص والتصنيع الكيميائي والدوائي"
+      ]
+    },
+    "imageUrl": "/images/uploads/uploaded_product_ipa.jpg",
+    "featured": true
+  },
+  {
+    "id": "xylene",
+    "name": {
+      "ar": "زايلين صناعي نقي (Xylene)",
+      "en": "Mixed Xylene (Industrial Grade)"
+    },
+    "category": "solvents-coalescents",
+    "casNumber": "1330-20-7",
+    "appearance": {
+      "ar": "سائل شفاف رائق كالماء ذو رائحة أروماتية هيدروكربونية مميزة وقوة إذابة هائلة",
+      "en": "Water-white clear liquid with strong aromatic hydrocarbon odor"
+    },
+    "packaging": {
+      "ar": "براميل حديدية 200 كجم / حاويات IBC سعة 1000 لتر",
+      "en": "20 kg steel drums / 1000 L IBC containers"
+    },
+    "applications": {
+      "ar": [
+        "مخفف أساسي لدهانات الإيبوكسي والألكيد والبولي يوريثان الصناعية",
+        "دهانات السيارات والطلاءات الصناعية الثقيلة واللاكيهات",
+        "إذابة الراتنجات الاصطناعية والمطاط",
+        "تصنيع وتحضير المبيدات والكيماويات الزراعية",
+        "إزالة الشحوم وتشطيب ودباغة الجلود"
+      ],
+      "en": [
+        "Thinner for epoxy",
+        "alkyd & polyurethane industrial coatings",
+        "Automotive refinish coatings & heavy-duty enamels",
+        "Solvent for synthetic resins & rubbers",
+        "Agricultural chemical & pesticide formulations",
+        "Leather degreasing & processing solutions"
+      ]
+    },
+    "imageUrl": "/images/uploads/uploaded_product_xylene.jpg",
+    "featured": true
+  },
+  {
+    "id": "butyl-acetate",
+    "name": {
+      "ar": "بيوتيل أسيتات (Butyl Acetate)",
+      "en": "Butyl Acetate 99.5%"
+    },
+    "category": "solvents-coalescents",
+    "casNumber": "123-86-4",
+    "appearance": {
+      "ar": "سائل شفاف نقي عديم اللون ذو رائحة فاكهية مميزة ومعدل تبخر متوسط منتظم",
+      "en": "Clear colorless liquid with pleasant fruity banana-like odor, medium evaporation"
+    },
+    "packaging": {
+      "ar": "براميل حديدية 200 كجم / حاويات IBC سعة 1000 لتر",
+      "en": "200 kg steel drums / 1000 L IBC containers"
+    },
+    "applications": {
+      "ar": [
+        "مذيب رئيسي لورنيشات وطلاءات النيتروسيليلوز ورش الأخشاب",
+        "دهانات السيارات والتشطيبات السطحية البولي يوريثان",
+        "أحبار الطباعة الدوارة والفلكسوغرافية للتغليف",
+        "محاليل الراتنجات الاصطناعية والبوليمرات",
+        "صناعة اللواصق والسيلكون ومزيلات الطلاء"
+      ],
+      "en": [
+        "Primary solvent for nitrocellulose wood lacquers",
+        "Automotive topcoats & polyurethane finishes",
+        "Flexographic & rotogravure packaging printing inks",
+        "Synthetic resin & polymer solutions",
+        "Adhesives",
+        "sealants & nail polish removers"
+      ]
+    },
+    "imageUrl": "/images/uploads/uploaded_product_butyl-acetate.jpg",
+    "featured": true
+  },
+  {
+    "id": "ethanol",
+    "name": {
+      "ar": "كحول إيثيلي / إيثانول (Ethanol)",
+      "en": "Denatured Ethanol (96% & 99.9%)"
+    },
+    "category": "solvents-coalescents",
+    "casNumber": "64-17-5",
+    "appearance": {
+      "ar": "سائل شفاف طيار عديم اللون ذو نقاوة فائقة ورائحة كحولية نظيفة",
+      "en": "Clear, colorless mobile liquid with pleasant spirituous odor"
+    },
+    "packaging": {
+      "ar": "براميل حديدية 200 كجم / حاويات IBC سعة 1000 لتر",
+      "en": "200 kg steel drums / 1000 L IBC containers"
+    },
+    "applications": {
+      "ar": [
+        "صناعة المعقمات والجل والمطهرات الطبية والصناعية",
+        "أحبار طباعة التغليف والتعبئة ومخففات الأحبار",
+        "مستحضرات التجميل والعناية الشخصية والعطور",
+        "المستخلصات الدوائية والصيدلانية والأعشاب",
+        "المنظفات الصناعية وملمعات الزجاج والأسطح"
+      ],
+      "en": [
+        "Hand sanitizers",
+        "medical disinfectants & antiseptic gels",
+        "Packaging flexographic printing inks & thinners",
+        "Cosmetics",
+        "body sprays",
+        "perfumes & toiletries",
+        "Pharmaceutical extraction & botanical processing",
+        "Industrial cleaners",
+        "glass wash & coatings"
+      ]
+    },
+    "imageUrl": "/images/uploads/uploaded_product_ethanol.jpg",
+    "featured": false
+  },
+  {
+    "id": "methanol",
+    "name": {
+      "ar": "ميثانول صناعي نقي (Methanol)",
+      "en": "Industrial Methanol 99.85%"
+    },
+    "category": "solvents-coalescents",
+    "casNumber": "67-56-1",
+    "appearance": {
+      "ar": "سائل شفاف لا لون له، تام الامتزاج بالماء ذو تطاير وسرعة تبخر عالية",
+      "en": "Colorless transparent liquid, low viscosity, completely miscible in water"
+    },
+    "packaging": {
+      "ar": "براميل حديدية 200 كجم / حاويات IBC سعة 1000 لتر",
+      "en": "200 kg steel drums / 1000 L IBC containers"
+    },
+    "applications": {
+      "ar": [
+        "مادة وسيطة لتصنيع الفورمالدهيد وحمض الخليك والراتنجات",
+        "إنتاج وقود الديزل الحيوي (البيوديزل) عبر الأسترة",
+        "سوائل تبريد الرديتر ومياه مساحات زجاج السيارات",
+        "مذيب صناعي وفي استخلاص المختبرات والتنظيف الكيميائي",
+        "معالجة مياه الصرف الصناعي وإزالة النيتروجين"
+      ],
+      "en": [
+        "Chemical intermediate for formaldehyde & acetic acid",
+        "Biodiesel production through transesterification",
+        "Antifreeze & automotive windshield washer fluids",
+        "Industrial solvent & chemical extraction",
+        "Wastewater treatment denitrification feed"
+      ]
+    },
+    "imageUrl": "/images/uploads/uploaded_product_methanol.jpg",
+    "featured": false
+  },
+  {
+    "id": "ethyl-acetate",
+    "name": {
+      "ar": "إيثيل أسيتات (Ethyl Acetate)",
+      "en": "Ethyl Acetate 99.8%"
+    },
+    "category": "solvents-coalescents",
+    "casNumber": "141-78-6",
+    "appearance": {
+      "ar": "سائل شفاف عديم اللون سريع التطاير ذو رائحة فاكهية مميزة وقوة إذابة سريعة",
+      "en": "Clear, colorless liquid with sweet fruity odor, fast evaporation rate"
+    },
+    "packaging": {
+      "ar": "براميل حديدية 200 كجم / حاويات IBC سعة 1000 لتر",
+      "en": "200 kg steel drums / 1000 L IBC containers"
+    },
+    "applications": {
+      "ar": [
+        "أحبار طباعة التغليف والتعبئة (فلكسو وروتو)",
+        "اللواصق الصناعية والغراء السريع والغراء التلامسي",
+        "مخففات الطلاء ومذيبات ورنيش الأظافر",
+        "تنقية واستخلاص المواد الفعالة الدوائية والمضادات الحيوية",
+        "صناعة ودباغة الجلود الاصطناعية"
+      ],
+      "en": [
+        "Solvent for flexographic & rotogravure packaging printing inks",
+        "Industrial contact glues & rubber adhesives",
+        "Coating thinners & nail polish removers",
+        "Pharmaceutical purification & extraction of active ingredients",
+        "Synthetic leather manufacturing & tanning"
+      ]
+    },
+    "imageUrl": "/images/uploads/uploaded_product_ethyl-acetate.jpg",
+    "featured": true
+  },
+  {
+    "id": "white-spirit",
+    "name": {
+      "ar": "وايت سبيريت / كيروسين منزوع الرائحة (White Spirit)",
+      "en": "White Spirit / Mineral Spirits (Low Odor)"
+    },
+    "category": "solvents-coalescents",
+    "casNumber": "64742-82-1",
+    "appearance": {
+      "ar": "سائل شفاف رائق كالماء ذو رائحة خفيفة منزوعة، ونقطة وميض آمنة",
+      "en": "Clear water-white liquid with narrow boiling range and mild low odor"
+    },
+    "packaging": {
+      "ar": "براميل حديدية 200 كجم / حاويات IBC سعة 1000 لتر",
+      "en": "200 kg steel drums / 1000 L IBC containers"
+    },
+    "applications": {
+      "ar": [
+        "مخفف للدهانات الألكيدية الزيتية والورنيشات وبويات الأساس",
+        "إزالة الشحوم وتنظيف المحركات والماكينات وقطع الغيار",
+        "محاليل حماية الأخشاب ومكافحة النمل الأبيض وحفظ الخشب",
+        "ملمعات الشمع والعناية بالأحذية والأرضيات الخشبية",
+        "مذيب للتنظيف الجاف للمنسوجات والغسيل الصناعي"
+      ],
+      "en": [
+        "Thinner for oil-based alkyd paints",
+        "varnishes & primers",
+        "Heavy-duty degreaser for automotive parts & machinery",
+        "Wood preservation & anti-termite chemical treatments",
+        "Wax polish",
+        "floor care & shoe polish formulations",
+        "Industrial solvent cleaning & dry-cleaning formulations"
+      ]
+    },
+    "imageUrl": "/images/uploads/uploaded_product_white-spirit.jpg",
+    "featured": true
+  },
+  {
+    "id": "talc",
+    "name": {
+      "en": "Industrial Micronized Talc Powder",
+      "ar": "بودرة التلك الصناعية (Talc Powder)"
+    },
+    "category": "fillers-minerals",
+    "casNumber": "14807-96-6",
+    "appearance": {
+      "en": "Ultra-fine platy white powder, lamellar structure with slippery soft touch",
+      "ar": "بودرة معدنية بيضاء فائقة النعومة ذات صفائح بلورية وملمس صابوني ناعم"
+    },
+    "packaging": {
+      "en": "25 Kg multi-layer paper bags",
+      "ar": "أكياس ورقية متعددة الطبقات سعة 25 كجم"
+    },
+    "applications": {
+      "en": [
+        "Automotive body putties & wall fillers for easy sanding",
+        "Industrial primers & barrier coats for corrosion resistance",
+        "Polypropylene (PP) plastic reinforcement & stiffness",
+        "Ceramics & sanitaryware manufacturing",
+        "Rubber compounding & dusting agent to prevent sticking"
+      ],
+      "ar": [
+        "معجون السيارات ومعجون الحوائط لتسهيل السنفرة والنعومة الفائقة",
+        "بويات الأساس الصناعية لمنع التآكل ونفاذية الرطوبة",
+        "تدعيم وتقوية بلاستيك البولي بروبيلين ورفع الصلابة",
+        "صناعة السيراميك والأدوات الصحية",
+        "صناعة المطاط ومنع التصاق القوالب أثناء التصنيع"
+      ]
+    },
+    "imageUrl": "/images/uploads/uploaded_product_talc.jpg",
+    "featured": false
+  },
+  {
+    "id": "mica",
+    "name": {
+      "en": "Micronized Wet-Ground Mica Powder",
+      "ar": "بودرة الميكا الطبيعية (Mica Powder)"
+    },
+    "category": "fillers-minerals",
+    "casNumber": "12001-26-2",
+    "appearance": {
+      "en": "Flaky off-white glistening platelets, extreme thermal & dielectric stability",
+      "ar": "رقائق بلورية بيضاء لامعة مقاومة لدرجات الحرارة العالية والعزل الكهربائي والمائي"
+    },
+    "packaging": {
+      "en": "25 Kg multi-layer paper bags",
+      "ar": "أكياس ورقية متعددة الطبقات سعة 25 كجم"
+    },
+    "applications": {
+      "en": [
+        "Pearlescent pigment substrates & decorative finishes",
+        "Exterior architectural paints for crack bridging & UV defense",
+        "High-voltage electrical insulation tapes & boards",
+        "Drilling fluids lost circulation material (LCM)",
+        "Welding electrodes & friction brake materials"
+      ],
+      "ar": [
+        "قواعد الأصباغ اللؤلؤية والمعدنية والطلاءات الديكورية",
+        "الدهانات الخارجية لمنع التشققات ومقاومة الشمس والأشعة فوق البنفسجية",
+        "ألواح وأشرطة العزل الكهربائي للجهد العالي والعزل الحراري",
+        "مواد سد مسام التكوينات الجيولوجية في سوائل الحفر (LCM)",
+        "أسياخ اللحام الكهربائي والمواد المقاومة للاحتكاك"
+      ]
+    },
+    "imageUrl": "/images/uploads/uploaded_product_mica.jpg",
+    "featured": false
+  },
+  {
+    "id": "citric-acid",
+    "name": {
+      "en": "Citric Acid (Anhydrous & Monohydrate)",
+      "ar": "حمض الستريك / ملح الليمون (Citric Acid)"
+    },
+    "category": "specialty-chemicals",
+    "casNumber": "77-92-9",
+    "appearance": {
+      "en": "White crystalline powder or granular crystals, tart acidic taste, high purity",
+      "ar": "بلورات شفافة أو مسحوق بلوري أبيض ذو نقاوة عالية وحموضة نقية وقدرة تخلب قوية"
+    },
+    "packaging": {
+      "en": "25 Kg paper bags with PE inner liner",
+      "ar": "أكياس ورقية سعة 25 كجم مبطنة بالبولي إيثيلين"
+    },
+    "applications": {
+      "en": [
+        "Industrial descaling & boiler rust/scale removal",
+        "Chelating agent & pH stabilizer in detergents & cleaners",
+        "Retarder for gypsum plasters & cementitious formulations",
+        "Textile dyeing & metal surface pickling",
+        "Water treatment & oilfield stimulation fluid"
+      ],
+      "ar": [
+        "التنظيف الصناعي وإزالة الترسبات الكلسية والصدأ من الغلايات والمراجل",
+        "عامل استخلاب وضبط درجة الحموضة pH في المنظفات والمنظفات الصناعية",
+        "مؤخر شك وتصلب في خلطات الجبس والإسمنت",
+        "صباغة المنسوجات وتجهيز وتنظيف المعادن",
+        "معالجة المياه وتحفيز الآبار النفطية"
+      ]
+    },
+    "imageUrl": "/images/uploads/uploaded_product_citric-acid.jpg",
+    "featured": true
+  }
+]
